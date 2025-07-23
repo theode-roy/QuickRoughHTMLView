@@ -1,4 +1,4 @@
-![QRHV](./QuickRoughHTMLView/Resources/QRHV.png)
+![QRHV](./QuickRoughHTMLView/QuickRoughHTMLView.docc/Resources/QRHV.png)
 
 # QuickRoughHTMLView
 
