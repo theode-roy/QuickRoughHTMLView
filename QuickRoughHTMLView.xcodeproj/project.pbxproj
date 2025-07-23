@@ -39,6 +39,7 @@
 /* Begin PBXFileReference section */
 		F025F6422E3139E9008F3CB9 /* QRHVExampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = QRHVExampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F037F96A2E3137E600A9FEE4 /* QuickRoughHTMLView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = QuickRoughHTMLView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F0411E902E315585008D04E8 /* Package.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		F0ECA2902E314029001D07CF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +83,7 @@
 				F0ECA28A2E313A59001D07CF /* Frameworks */,
 				F037F96B2E3137E600A9FEE4 /* Products */,
 				F0ECA2902E314029001D07CF /* README.md */,
+				F0411E902E315585008D04E8 /* Package.swift */,
 			);
 			sourceTree = "<group>";
 		};
